@@ -1566,10 +1566,10 @@
     semver "^7.3.2"
     webpack-merge "^4.2.2"
 
-"@crowdin/cli@^3.7.10":
-  version "3.7.10"
-  resolved "https://registry.yarnpkg.com/@crowdin/cli/-/cli-3.7.10.tgz#ee74da1f2b4d27a7050d7b6a3960835854b92b7d"
-  integrity sha512-L0sjeEv4bn7LHNYsKxl2aTrah16u1ThufN0xvMMH7o53lD29llvVfAD9jVOttSl/kyQ+mMDY8GLzjPRNFdLJqQ==
+"@crowdin/cli@^3.9.1":
+  version "3.9.1"
+  resolved "https://registry.yarnpkg.com/@crowdin/cli/-/cli-3.9.1.tgz#f09f3616798ec7474c2c7d162a40bf875e0c9e74"
+  integrity sha512-Ca+mzVvLE9lYmTA4peTHOQdH42+eThwQ0DK6URT7crInQKJRjVJdsA2kkfEwi2mQPruAIG/KIKaPieRWPanlIQ==
   dependencies:
     njre "^0.2.0"
     shelljs "^0.8.4"
