@@ -39,7 +39,7 @@ COPY --from=FRONT --chown=$USER:$USER /web/build ./web/build
 ENTRYPOINT ["/server"]
 
 
-FROM debian:latest AS db
+FROM debian:bullseye AS db
 RUN apt update \
     && apt install -y \
         mariadb-server \
